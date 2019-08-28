@@ -1,3 +1,20 @@
+# ---------------- #
+#    Analytics     #
+# ---------------- #
+google:
+    analytics_id: UA-80669434-1
+    
+remote_theme : mzlogin/mzlogin.github.io
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Site Title"
+title_separator          : "-"
+name                     : "btwos25"
+description              : "An amazing website."
+url                      : "https://btwos25.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
