@@ -13,6 +13,8 @@
 {% include navigation.html %}
 
 {% if page.image.feature %}
+
+<script id="dsq-count-scr" src="//btwos25.disqus.com/count.js" async></script>
 <div class="entry-header">
   {% if page.image.credit %}<div class="image-credit">Image source: {% if page.image.creditlink %}<a href="{{ page.image.creditlink }}">{% endif %}{{ page.image.credit }}{% if page.image.creditlink %}</a>{% endif %}</div><!-- /.image-credit -->{% endif %}
   <div class="entry-image">
@@ -37,6 +39,9 @@
           {% include read-time.html %}
         </p><!-- /.entry-reading-time -->
         {% endif %}
+		{% if page.comments %}
+		<h3><a href="{{ site.url }}{{ page.url }}#disqus_thread">Link</a></h3>
+		{% endif %} <!-- comment count -->
       </div><!-- /.header-title-wrap -->
     </header>
     <div class="entry-content">
