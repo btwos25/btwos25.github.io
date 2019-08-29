@@ -10,7 +10,7 @@
 * [Syntax highlighting](http://mmistakes.github.io/jekyll-theme-hpstr/code-highlighting-post/) stylesheet to make your code examples look snazzy
 * [Available in Spanish](https://github.com/cruznick/hpstr-jekyll-theme/tree/es). Thanks [@cruznick](https://github.com/cruznick)!
 
-#![HPSTR Theme Preview screenshot](http://mmistakes.github.io/jekyll-theme-hpstr/images/jekyll-theme-hpstr-preview.jpg)
+##![HPSTR Theme Preview screenshot](http://mmistakes.github.io/jekyll-theme-hpstr/images/jekyll-theme-hpstr-preview.jpg)
 
 ---
 
