@@ -39,9 +39,9 @@
           {% include read-time.html %}
         </p><!-- /.entry-reading-time -->
         {% endif %}
-		{% if page.comments %}
-		<h3><a href="{{ site.url }}{{ page.url }}#disqus_thread">0 Comments</a></h3>
-		{% endif %} <!-- comment count -->
+	{% if page.comments %}
+	<h3><span class="entry-comment-count"><a href="{{ site.url }}{{ page.url }}#disqus_thread">0 Comments</a></h3>
+	{% endif %} <!-- /.entry-comment-count -->
       </div><!-- /.header-title-wrap -->
     </header>
     <div class="entry-content">
