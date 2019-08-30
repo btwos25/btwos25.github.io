@@ -13,7 +13,7 @@ baseurl:                     ""
 owner:
   name:          btwos25
   avatar:         avatar.jpg
-  bio:              "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  bio:              "알고봐도 쓸데없는 개발팁만 있는 곳."
   email:            you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
